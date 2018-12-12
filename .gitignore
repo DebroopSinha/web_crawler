@@ -23,6 +23,7 @@ venv/
 *.rar
 *.tar
 *.zip
+*.tip
 
 # Logs and databases #
 ######################
