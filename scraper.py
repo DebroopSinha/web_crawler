@@ -15,7 +15,7 @@ The Spider class crawls flipkart.com and snapdeal.com to gather phone listings (
 crawler() method uses 'requests', url formatting and bs4 soup.find method to get the data .
 
 dynamic_crawler() deals with javascript rendered pages. It uses selenium web driver . 
-An alternative could be Scrapy library or pyQT5 .
+An alternative could be Scrapy library or pyQT5 . .
 
 threading causes data from both websites to be printed asynchronously . 
 In a more realistic situation they will be inserted in some database.
